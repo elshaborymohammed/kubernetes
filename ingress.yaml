@@ -17,3 +17,5 @@ spec:
             name: hello-kubernetes-first
             port:
               number: 80
+status:
+  loadBalancer: {}
